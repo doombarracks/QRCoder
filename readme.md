@@ -4,7 +4,7 @@
 
 This fork of QRCoder focuses on performance improvements to lessen generation time.
 
-Current implementation is around 50 ~ 60x faster than original library in generation time and 2 ~ 10x faster in bitmap drawing.
+Current implementation is around 30 ~ 50x faster than original library in generation time and 2 ~ 5x faster in bitmap drawing.
 
 ### Differences
 The differences between original QRCoder and this fork are listed as follow.
